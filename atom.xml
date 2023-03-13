@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skyfloor.github.io</id>
+    <title>天命之子塔防资料站</title>
+    <updated>2023-03-13T08:59:01.299Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skyfloor.github.io"/>
+    <link rel="self" href="https://skyfloor.github.io/atom.xml"/>
+    <subtitle>QQ群：700630511  公会：神奈氚冲浪里</subtitle>
+    <logo>https://skyfloor.github.io/images/avatar.png</logo>
+    <icon>https://skyfloor.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 天命之子塔防资料站</rights>
+    <entry>
+        <title type="html"><![CDATA[卡牌介绍 - 贡嘎]]></title>
+        <id>https://skyfloor.github.io/k70sXG32o/</id>
+        <link href="https://skyfloor.github.io/k70sXG32o/">
+        </link>
+        <updated>2023-03-10T11:51:29.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://skyfloor.github.io/post-images/1678600935200.png" alt="" loading="lazy"><br>
+这是一张平民战神卡，拥有不错的技能加成，但也有明显的缺点。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://skyfloor.github.io/post-images/1678600935200.png" alt="" loading="lazy"><br>
+这是一张平民战神卡，拥有不错的技能加成，但也有明显的缺点。</p>
+<!-- more -->
+<h3 id="中文官方译名">中文官方译名</h3>
+<p>贡嘎</p>
+<figure data-type="image" tabindex="1"><img src="" alt="" loading="lazy"></figure>
+<h3 id="游戏内头像">游戏内头像</h3>
+<div><img src = "./Gridea/post-images/1678599588348.png" title = "贡嘎头像" width=100px/></div>
+<h2 id="nihao">nihao</h2>
+<pre><code>你好
+你好
+你好
+</code></pre>
+<h1 id="你好">你好</h1>
+<pre><code>你好
+你好
+你好
+</code></pre>
+<p>你好</p>
+<blockquote>
+<p>nihao<br>
+nihao<br>
+nihoa</p>
+</blockquote>
+<figure data-type="image" tabindex="2"><img src="https://img-blog.csdnimg.cn/20201104164535193.png#pic_center#pic_center=300px" alt="你好这是一个测试内容" loading="lazy"></figure>
+<div align= center><img src="https://img-blog.csdnimg.cn/20201104164535193.png#pic_center" width=200px></div>
+<ol>
+<li>第一项：
+<ul>
+<li>第一项嵌套的第一个元素</li>
+<li>第一项嵌套的第二个元素</li>
+</ul>
+</li>
+<li>第二项：
+<ul>
+<li>第二项嵌套的第一个元素</li>
+<li>第二项嵌套的第二个元素</li>
+</ul>
+</li>
+</ol>
+<p>www.baidu.com</p>
+<p><em><strong>不该</strong></em></p>
+<p>&amp;#x1F308</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金币箱-每周轮换记录]]></title>
+        <id>https://skyfloor.github.io/ioDlzWTDO/</id>
+        <link href="https://skyfloor.github.io/ioDlzWTDO/">
+        </link>
+        <updated>2023-03-06T13:54:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>金币箱，是目前游戏最容易获得金卡的方式之一，可通过花费金币抽卡获取。<br>
+该抽卡方式无保底，请自行考量当前金币量参与！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>金币箱，是目前游戏最容易获得金卡的方式之一，可通过花费金币抽卡获取。<br>
+该抽卡方式无保底，请自行考量当前金币量参与！</p>
+<!-- more -->
+<hr>
+<h5 id="1-刷新频率">1、刷新频率</h5>
+<p>📌每7天轮换，下周一下午刷新！</p>
+<h5 id="2-历史记录">2、历史记录</h5>
+<p>📌当前金币箱UP</p>
+<table>
+<thead>
+<tr>
+<th>本期金卡</th>
+<th>开放时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>冰冻</td>
+<td>2023-3-13 至 2023-3-20</td>
+</tr>
+<tr>
+<td>比利</td>
+<td>2023-3-6 至 2023-3-13</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+</feed>
