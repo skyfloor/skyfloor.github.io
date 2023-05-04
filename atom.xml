@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skyfloor.github.io</id>
+    <title>天命之子塔防资料站</title>
+    <updated>2023-05-04T15:10:06.022Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skyfloor.github.io"/>
+    <link rel="self" href="https://skyfloor.github.io/atom.xml"/>
+    <subtitle>QQ群：700630511  公会：神奈氚冲浪里</subtitle>
+    <logo>https://skyfloor.github.io/images/avatar.png</logo>
+    <icon>https://skyfloor.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 天命之子塔防资料站</rights>
+    <entry>
+        <title type="html"><![CDATA[金币箱-每周轮换记录]]></title>
+        <id>https://skyfloor.github.io/ioDlzWTDO/</id>
+        <link href="https://skyfloor.github.io/ioDlzWTDO/">
+        </link>
+        <updated>2023-03-06T13:54:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>金币箱，是目前游戏最容易获得金卡的方式之一，可通过花费金币抽卡获取。<br>
+该抽卡方式无保底，请自行考量当前金币量参与！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>金币箱，是目前游戏最容易获得金卡的方式之一，可通过花费金币抽卡获取。<br>
+该抽卡方式无保底，请自行考量当前金币量参与！</p>
+<!-- more -->
+<hr>
+<h5 id="1-刷新频率">1、刷新频率</h5>
+<p>📌每7天轮换，下周一下午刷新！</p>
+<h5 id="2-历史记录">2、历史记录</h5>
+<p>📌当前金币箱UP</p>
+<table>
+<thead>
+<tr>
+<th>本期金卡</th>
+<th>开放时间</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>塞墨勒（金卡移位）</td>
+<td>2023-4-30 至 2023-5-7</td>
+</tr>
+<tr>
+<td>卢萨卡（泡泡）</td>
+<td>2023-4-23 至 2023-4-30</td>
+</tr>
+<tr>
+<td>博利德莱（地毯）</td>
+<td>2023-4-17 至 2023-4-23</td>
+</tr>
+<tr>
+<td>娜塔莉丝（天使）</td>
+<td>2023-4-10 至 2023-4-16</td>
+</tr>
+<tr>
+<td>辛西亚（攻速地板：蓝色）</td>
+<td>2023-4-3 至 2023-4-10</td>
+</tr>
+<tr>
+<td>珀尔塞福涅（攻击地板：红色）</td>
+<td>2023-3-26 至 2023-4-2</td>
+</tr>
+<tr>
+<td>比利特</td>
+<td>2023-3-20 至 2023-3-26</td>
+</tr>
+<tr>
+<td>冰冻</td>
+<td>2023-3-13 至 2023-3-20</td>
+</tr>
+<tr>
+<td>比利</td>
+<td>2023-3-6 至 2023-3-13</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+</feed>
